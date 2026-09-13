@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+DWA,sensor_bias,0.5,2,1,11.158,0.1643,0,0

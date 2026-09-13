@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+MPPI,actuator_degradation,0.75,0,0,7.138,0.3832,0,15

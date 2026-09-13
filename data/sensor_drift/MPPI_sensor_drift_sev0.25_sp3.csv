@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+MPPI,sensor_drift,0.25,3,1,11.935,0.3067,0,0

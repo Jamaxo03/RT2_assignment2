@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+RPP,sensor_drift,1.0,4,1,10.175,0.0153,0,0

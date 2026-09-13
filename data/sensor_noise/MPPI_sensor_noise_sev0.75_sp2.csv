@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+MPPI,sensor_noise,0.75,2,1,14.51,0.3327,0,1

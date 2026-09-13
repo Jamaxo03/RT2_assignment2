@@ -1,0 +1,70 @@
+{
+  "resolution": 0.05,
+  "inflation_m": 0.22,
+  "goal": [
+    -4.0,
+    4.0
+  ],
+  "paths": [
+    {
+      "index": 0,
+      "spawn": [
+        -0.5,
+        -4.0
+      ],
+      "euclidean": 8.7321,
+      "optimal": 9.4497,
+      "ratio_opt_over_euclid": 1.0822
+    },
+    {
+      "index": 1,
+      "spawn": [
+        1.5,
+        -4.0
+      ],
+      "euclidean": 9.7082,
+      "optimal": 10.2782,
+      "ratio_opt_over_euclid": 1.0587
+    },
+    {
+      "index": 2,
+      "spawn": [
+        3.5,
+        -4.0
+      ],
+      "euclidean": 10.9659,
+      "optimal": 11.2238,
+      "ratio_opt_over_euclid": 1.0235
+    },
+    {
+      "index": 3,
+      "spawn": [
+        4.0,
+        -3.5
+      ],
+      "euclidean": 10.9659,
+      "optimal": 11.2238,
+      "ratio_opt_over_euclid": 1.0235
+    },
+    {
+      "index": 4,
+      "spawn": [
+        4.0,
+        -1.5
+      ],
+      "euclidean": 9.7082,
+      "optimal": 10.2782,
+      "ratio_opt_over_euclid": 1.0587
+    },
+    {
+      "index": 5,
+      "spawn": [
+        4.0,
+        0.5
+      ],
+      "euclidean": 8.7321,
+      "optimal": 9.4497,
+      "ratio_opt_over_euclid": 1.0822
+    }
+  ]
+}

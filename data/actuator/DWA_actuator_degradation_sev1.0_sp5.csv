@@ -1,0 +1,2 @@
+planner,fault_type,severity,spawn_index,success,path_length,min_clearance,collisions,n_recovery
+DWA,actuator_degradation,1.0,5,0,6.566,0.0346,0,19
